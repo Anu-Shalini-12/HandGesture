@@ -132,7 +132,7 @@ To classify hand gesture images using the provided test script, follow these ste
 Make sure to replace the correct path to your 'check' directory.
 
 ##Author:
-Abu-Shalini-12
+Anu-Shalini-12
 
 
 
